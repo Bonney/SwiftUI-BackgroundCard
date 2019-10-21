@@ -12,6 +12,8 @@ Text("This is some text, but it could be any SwiftUI view.")
 
 ... and you'll end up with this:
 
-![example image](example-1.png)
+![image of card in light mode](example-1.png)
 
-As you can see, it works nicely with 
+As you can see, it works nicely in dark mode as well (*additional padding and background has been added to these previews to better show off the cards*).
+
+![image of card in both light and dark modes](example-3.png)
