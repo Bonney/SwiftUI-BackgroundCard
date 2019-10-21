@@ -2,10 +2,7 @@ import SwiftUI
 
 struct BackgroundCard: ViewModifier {
     var radius: CGFloat = 12
-    var border: CGFloat {
-        // TODO: Increase border size slighty if Bold Text is enabled
-        return 1
-    }
+    var border: CGFloat = 1
     var shadow: Double = 0.03
     
     func body(content: Content) -> some View {
