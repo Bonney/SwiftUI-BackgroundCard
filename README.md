@@ -5,6 +5,7 @@ A simple SwiftUI ViewModifier to add a card-like background to a View.
 
 Simply apply the modifier to an exisiting View as such:
 
-> Text("This is some text")
->
->   .modifier(**BackgroundCard()**)
+```
+Text("This is some text, but it could be any SwiftUI view.")
+  .modifier( BackgroundCard() )
+```
