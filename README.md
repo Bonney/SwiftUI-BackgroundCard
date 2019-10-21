@@ -16,4 +16,4 @@ Text("This is some text, but it could be any SwiftUI view.")
 
 As you can see, it works nicely in dark mode as well (*additional padding and background has been added to these previews to better show off the cards*).
 
-![image of card in both light and dark modes](example-3.png)
+![image of card in both light and dark modes](example-2.png)
