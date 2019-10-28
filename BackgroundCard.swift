@@ -27,7 +27,7 @@ struct BackgroundCard: ViewModifier {
 
 struct BackgroundCard_Previews: PreviewProvider {
 	static var previews: some View {
-		Text("Hi there! I hope you find this simple ViewModifier useful."
+		Text("Hi there! I hope you find this simple ViewModifier useful.")
 			.modifier(BackgroundCard())
 	}
 }
